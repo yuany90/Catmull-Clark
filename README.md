@@ -8,7 +8,7 @@ This program creates smooth surfaces from Catmull-Clark subdivision surface mode
 
 User guide
 ------------
-Input sample file: **cubic**. First a few lines specify coordinates of vertices. Then line "f" indicates input of vertices ends and input of faces begins. Faces are repesented by its vertices. "0" means the first vertex which is "-1.0 -1.0 -1.0".
+Input sample file: **testfile**. First a few lines specify coordinates of vertices. Then line "f" indicates input of vertices ends and input of faces begins. Faces are repesented by its vertices. "0" means the first vertex which is "-1.0 -1.0 -1.0".
 
 Controls
 ------------
